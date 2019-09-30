@@ -1,0 +1,13 @@
+html{ 
+	background-color: gold; 
+}
+p {
+	color: white;
+}
+body {
+	background-color: red;
+	margin:auto;
+	max-width:900px;
+	height:600px;
+box-shadow:100px 150px 200px silver;
+}
