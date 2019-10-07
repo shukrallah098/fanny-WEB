@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>Fanny
-	<title>Ml-Legends</title>
+<head>
+Fanny
+<title>Ml-Legends</title>
 </head>
 <body>
-<picture>fanyy</picture>
+<p>MOBUle jeoucj</p>
+<picture></picture>
 </body>
+
 </html>
